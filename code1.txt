@@ -1,5 +1,6 @@
 hungary = input ("are u hugary?")
 if hungary == "yes":
    print("eat Pizza")
+   print("eat samosa")
 else:
     Print("go to ur homework")
