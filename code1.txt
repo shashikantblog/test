@@ -1,5 +1,0 @@
-hungary = input ("are u hugary?")
-if hungary == "yes":
-   print("eat Pizza")
-else:
-    Print("go to ur homework")
