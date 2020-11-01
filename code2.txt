@@ -1,0 +1,6 @@
+hungry = input("are u hungry?")
+if hungry == "yes"
+   print ("eat Pizza")
+   print ("eat Samosa")
+else:
+   print("go to ur work")
